@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#eka{
+background: hsl(200, 60%, 83%);
+}
+#huomio{
+float: left;
+
+text-align: center;
+font-size: 500%;
+background: #334466;
+color: #fff;
+width: 1.2em;
+border-bottom: solid 0.2em white;
+border-right: solid 0.2em white;
+
+}
+
